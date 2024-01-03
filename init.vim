@@ -6,6 +6,8 @@ set autoindent
 set expandtab
 set shiftwidth=4
 set guifont=Monospace:h20
+set so=17
+
 
 nnoremap fzf <cmd>Telescope find_files<cr>
 
